@@ -41,6 +41,10 @@ You need the following python libraries:
 ```
 pip install opencv-python==4.8.0 numpy==1.24.3 tensorflow==2.13.0 openpyxl==3.1.2
 ```
+<br>
+- You need to train a model on people, so that the program recongizes them. And need to get "haarcascade_frontalface_default.xml" file from: 
+https://github.com/kipr/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
+<br>
 
 ## 📝Usage
 You can just run the file.
