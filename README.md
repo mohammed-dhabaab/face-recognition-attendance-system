@@ -22,9 +22,6 @@
 ## 📋Project Description
 The project aims to automate attendance tracking using AI and computer vision. It involves developing a system that captures images, identifies facial features, and records attendance in a excel file.
 
-[Video Example](https://drive.google.com/file/d/1kxewrKsz82ewMFLW4duBJs-_8HtMUOL6/view?usp=drive_link)
-
-
 ## 📊Features 
 - Reconginze faces for trined model of people 
 
